@@ -10,11 +10,14 @@
   ],
   "forum": [
     {
-      "id": 1,
-      "name": "Gertrudis Tatterton",
-      "email": "gtatterton0@ehow.com",
-      "password": "12345",
-      "avatar": "https://upload.wikimedia.org/wikipedia/commons/9/99/Sample_User_Icon.png"
+      "userAvatar": "https://upload.wikimedia.org/wikipedia/commons/9/99/Sample_User_Icon.png",
+      "username": "Gertrudis Tatterton",
+      "questionTitle": "How to sort an array in JavaScript?",
+      "questionDescription": "I'm struggling with sorting an array in JavaScript. Can someone please provide guidance?",
+      "language": "JavaScript",
+      "upvotes": 10,
+      "answers": 3,
+      "postedDate": "2023-05-30"
     }
   ]
 }
