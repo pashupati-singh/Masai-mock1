@@ -10,6 +10,7 @@
   ],
   "forum": [
     {
+      "id": 1,
       "userAvatar": "https://upload.wikimedia.org/wikipedia/commons/9/99/Sample_User_Icon.png",
       "username": "Gertrudis Tatterton",
       "questionTitle": "How to sort an array in JavaScript?",
